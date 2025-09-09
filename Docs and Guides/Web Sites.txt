@@ -1,0 +1,8 @@
+St. Olaf article from 2014 on student research similar to PIGMENT:
+https://wp.stolaf.edu/news/student-brings-mathematical-modeling-to-the-ceramics-studio#:~:text=The%20majority%20of%20Kushner's%20time,I%20have%20to%20work%20with.%E2%80%9D
+
+High-schooler's Project Using Decision Trees to predict glazing colors:
+https://isef.net/project/etsd021-prediction-of-glaze-color-using-random-forest
+
+Glazy.org:
+https://glazy.org/materials?primitive=1
